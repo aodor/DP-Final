@@ -1,0 +1,20 @@
+---
+title: "BMI.Rmd"
+author: "Alberto Odor"
+date: "Saturday, June 21, 2014"
+output: html_document
+---
+
+####Introduction
+The BMI is used in a wide variety of contexts as a simple method to assess how much an individual's body weight departs from what is normal or desirable for a person of his or her height. There is however often vigorous debate, particularly regarding at which value of the BMI scale the threshold for overweight and obese should be set, but also about a range of perceived limitations and problems with the BMI.   
+BMI' provides a simple numeric measure of a person's thickness or thinness, allowing health professionals to discuss overweight and underweight problems more objectively with their patients. However, BMI has become controversial because many people, including physicians, have come to rely on its apparent numerical authority for medical diagnosis, but that was never the BMI's purpose; it is meant to be used as a simple means of classifying sedentary (physically inactive) individuals, or rather, populations, with an average body composition.[5] For these individuals, the current value settings are as follows: a BMI of 18.5 to 25 may indicate optimal weight, a BMI lower than 18.5 suggests the person is underweight, a number above 25 may indicate the person is overweight, a number above 30 suggests the person is obese.   
+
+####Formula   
+BMI = (weight(lbs)/hight(in)^2)*730
+
+###Instructions for Use
+1. imput your height in inches 
+2. input your weight in lbs 
+3. press Submit
+4. read your BMI result in the main panel
+5. compare to the table bellow
